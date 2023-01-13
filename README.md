@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shba007
 - 👀 I’m interested in Web and AI/ML
-- 🌱 I’m currently learning Nuxt
+- 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on Nuxt
 - 📫 How to reach me shirsendu2001@gmail.com
 
