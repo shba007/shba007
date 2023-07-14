@@ -4,6 +4,7 @@
 I'm Shirsendu Bairagi, a passionate Web Developer with a love for Tech, Web and AI. I enjoy learning Tech, and I'm constantly exploring new technologies and seeking innovative solutions to Web, IoT and AI. 
 
 ## 🔭 Current Projects
+- [Psy](https://github.com/shba007/psy-app): An psychoanalytical calculator for various assessments and an scanner for automatic analysis.
 - [BloodLink](https://github.com/shba007/blood-link): A web search engine enabling users to find specific blood type based on their location.
 
 ## 🌱 I'm Currently Learning
