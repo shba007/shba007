@@ -5,11 +5,11 @@ I'm Shirsendu Bairagi, a passionate Web Developer with a love for Tech, Web and 
 
 ## 🔭 Current Projects
 - [Psy](https://github.com/shba007/psy-app): An psychoanalytical calculator for various assessments and an scanner for automatic analysis.
-- [BloodLink](https://github.com/shba007/blood-link): A web search engine enabling users to find specific blood type based on their location.
+- [FashionLens](https://github.com/shba007/fashion-lens): A visual search engine enables users to find fashion products on all e-commerce platforms.
 
 ## 🌱 I'm Currently Learning
-- [Tensorflow](https://github.com/tensorflow/tensorflow): Learning Tensorflow to develop ML/AI models and deploy it in production.
 - [Nuxt](https://github.com/nuxt/nuxt): Leveraging Nuxt to create SSR web apps.
+- [Tensorflow](https://github.com/tensorflow/tensorflow): Learning Tensorflow to develop ML/AI models and deploy it in production.
 
 ## 💡 Skills
 - **Programming Languages**: C, C++, Javascript, Typescript, Python, Go.
@@ -21,7 +21,7 @@ I'm Shirsendu Bairagi, a passionate Web Developer with a love for Tech, Web and 
 - Email: [shirsendu2001@gmail.com](mailto:shirsendu2001@gmail.com)
 - LinkedIn: [shirsendu-bairagi-28b4b1213](https://www.linkedin.com/in/shirsendu-bairagi-28b4b1213)
 - Twitter: [@shirsendu_2001](https://twitter.com/shirsendu_2001)
-- Portfolio: [www.shirsendu-bairagi.com](https://www.shirsendu-bairagi.com)
+- Portfolio: [shirsendu-bairagi.dev](https://shirsendu-bairagi.dev)
 
 ## 🌐 My Work
 Check out my Portfolio Website to see the projects I made also checkout my GitHub repositories to see my latest projects and contributions.
