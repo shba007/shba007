@@ -5,7 +5,10 @@ I'm Shirsendu Bairagi, a passionate Web Developer with a love for Tech, Web and 
 
 ## 🔭 Current Projects
 - [Psy](https://github.com/shba007/psy-app): An psychoanalytical calculator for various assessments and an scanner for automatic analysis.
-- [FashionLens](https://github.com/shba007/fashion-lens): A visual search engine enables users to find fashion products on all e-commerce platforms.
+- [UI React - Podcast](https://github.com/shba007/ui-react-podcast): UI of a podcast website in React + Typescript + Tailwind CSS
+- [UI React - Magma](https://github.com/shba007/ui-react-magma): UI Clone of awwwwards winning site magma in React + Typescript + Tailwind CSS
+<!-- - [Alphanum Vision](https://github.com/shba007/alphanum-vision): Multilingual AI app for accurate recognition of digits, alphabets, and symbols across languages.
+- [Fashion Lens](https://github.com/shba007/fashion-lens): A visual search engine enables users to find fashion products on all e-commerce platforms. -->
 
 ## 🌱 I'm Currently Learning
 - [Nuxt](https://github.com/nuxt/nuxt): Leveraging Nuxt to create SSR web apps.
