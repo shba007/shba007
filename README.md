@@ -4,21 +4,39 @@
 ## About Me
 I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technology, web development, and artificial intelligence. I thrive on continuous learning and actively explore the latest advancements in tech to create innovative solutions in the realms of Web, IoT, and AI.
 
-## 🌱 I'm Currently Learning
-- [Vue](https://github.com/vuejs/core): Learning Vue for Better Understanding Nuxt.
-- [React Native](https://github.com/facebook/react-native): Working as React Native Inter in Xatalyst Labs and also Learning it.
-- [Blender](https://www.blender.org): Learning Blender to Implement 3D Design in Web and for 3D printing purposes.
-
 <!-- Replace Skiis with Icons -->
 ## 💡 Skills
-- **Programming Languages**: C, C++, HTML, CSS, SCSS, Javascript, Typescript, Python.
-- **Technologies**: REST API, MQTT, Prisma, Arduino, ESP32.
-- **Tools**: VSCode, Git, Pieces, Figma, Notion.
-- **Frameworks/Libraries**: Angular, React, Vue, Nuxt, Tensorflow.
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts," />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,vitest,pinia,nuxt" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion" />
+</p>
+
+## 🌱 Learning
+- [Blender](https://www.blender.org): Learning Blender to Implement 3D Design in Web and for 3D printing purposes.
+- [Vue](https://github.com/vuejs/core): Learning Vue for Better Understanding Nuxt.
+- [React Native](https://github.com/facebook/react-native): Working as React Native Intern in Xatalyst Labs and also Learning it.
+- [Tensorflow.js](https://github.com/tensorflow/tfjs): Working as ML Lead in Xatalyst Labs and also Learning it.
+
 
 ## 🏆 GitHub Stats
-<div style="display: flex; gap: 4rem; justify-content: space-between; align-items: center;">
-    <picture>
+<div align="center" style="display: flex; gap: 4rem; justify-content: space-between; align-items: center;">
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=shba007&mode=daily&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=shba007&mode=daily"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=shba007&mode=daily" />
+</picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=shba007&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -29,7 +47,7 @@ I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technol
   />
   <img src="https://github-readme-stats.vercel.app/api?username=shba007&show_icons=true" />
 </picture>
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shba007&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -39,8 +57,9 @@ I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technol
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shba007&layout=compact" />
-</picture>
+</picture> -->
 </div>
+
 <!---
 shba007/shba007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
