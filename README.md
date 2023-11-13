@@ -1,7 +1,8 @@
-<!-- TODO: Banner Image -->
-[![An image of @shba007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shba007)](https://holopin.io/@shba007)
+<p align="center">
+  <img src="./Logo.png" lt="Logo" width="64" />
+<p>
 
-## About Me
+## 📢 About
 I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technology, web development, and artificial intelligence. I thrive on continuous learning and actively explore the latest advancements in tech to create innovative solutions in the realms of Web, IoT, and AI.
 
 <!-- Replace Skiis with Icons -->
@@ -59,6 +60,10 @@ I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technol
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shba007&layout=compact" />
 </picture> -->
 </div>
+
+## 🍀 Badges
+<!-- TODO: Banner Image -->
+[![An image of @shba007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shba007)](https://holopin.io/@shba007)
 
 <!---
 shba007/shba007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
