@@ -25,8 +25,7 @@ I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technol
 
 
 ## 🏆 GitHub Stats
-<div align="center" style="display: flex; gap: 4rem; justify-content: space-between; align-items: center;">
-<picture width="48%">
+<picture width="48%" align="left">
   <source
     srcset="https://streak-stats.demolab.com?user=shba007&mode=daily&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -37,7 +36,7 @@ I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technol
   />
   <img src="https://streak-stats.demolab.com?user=shba007&mode=daily" />
 </picture>
-<picture width="48%">
+<picture width="48%" align="right">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=shba007&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -59,7 +58,7 @@ I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technol
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shba007&layout=compact" />
 </picture> -->
-</div>
+
 
 ## 🍀 Badges
 <!-- TODO: Banner Image -->
