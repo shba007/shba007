@@ -8,17 +8,19 @@ I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technol
 <!-- Replace Skiis with Icons -->
 ## 💡 Skills
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,vitest,pinia,nuxt" />
+<!-- vitest,pinia -->
+    <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,nuxt" />
 </p>
+<!-- notion -->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ## 🌱 Learning
-- [Blender](https://www.blender.org): Learning Blender to Implement 3D Design in Web and for 3D printing purposes.
+<!-- - [Blender](https://www.blender.org): Learning Blender to Implement 3D Design in Web and for 3D printing purposes. -->
 - [Vue](https://github.com/vuejs/core): Learning Vue for Better Understanding Nuxt.
 - [React Native](https://github.com/facebook/react-native): Working as React Native Intern in Xatalyst Labs and also Learning it.
 - [Tensorflow.js](https://github.com/tensorflow/tfjs): Working as ML Lead in Xatalyst Labs and also Learning it.
