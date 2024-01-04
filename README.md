@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Logo.png" lt="Logo" width="64" />
+  <img src="./logo.png" lt="logo" width="80" />
 <p>
 
 ## 📢 About
@@ -23,7 +23,7 @@ I'm Shirsendu Bairagi, a dedicated Web Developer with a deep passion for technol
 <!-- - [Blender](https://www.blender.org): Learning Blender to Implement 3D Design in Web and for 3D printing purposes. -->
 - [Vue](https://github.com/vuejs/core): Learning Vue for Better Understanding Nuxt.
 - [React Native](https://github.com/facebook/react-native): Working as React Native Intern in Xatalyst Labs and also Learning it.
-- [Tensorflow.js](https://github.com/tensorflow/tfjs): Working as ML Lead in Xatalyst Labs and also Learning it.
+- [Figma](https://www.youtube.com/playlist?list=PLlHtucAD9KT19ckHqXpPSStZOyDSq9AW-): To able to create more professional designs
 
 
 ## 🏆 GitHub Stats
