@@ -2,21 +2,24 @@
   <img src="./logo.png" lt="logo" width="80" />
 <p>
 
-## 📢 About
-Founder of Gold Fish Bowl, CTO at RED CAT PICTURES.
+### CTO & Co-founder @ Modest Human Brands · Open-source maintainer
 
-Architecting scalable design, leading product development, and fostering tech innovation.
+Building scalable product + systems for creative businesses.
+
+[Website](https://shrisendu-bairagi.dev) · [LinkedIn](https://www.linkedin.com/in/shirsendu-bairagi/) · [Email](mailto:shirsendu2001@gmail.com)
 
 ## 🏆 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=shba007&show_icons=true&theme=dark" width="48%" align="right">
-<img src="https://streak-stats.demolab.com?user=shba007&mode=daily&theme=dark" width="48%">
 
+<br />
+
+<img
+  src="https://streak-stats.demolab.com?user=shba007&theme=vue-dark&hide_border=true&short_numbers=true"
+  height="160"
+  alt="GitHub streak"
+/>
 
 ## 🍀 Badges
-<!-- TODO: Banner Image -->
-[![An image of @shba007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shba007)](https://holopin.io/@shba007)
 
-<!---
-shba007/shba007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+
+[![Holopin badges](https://holopin.me/shba007)](https://holopin.io/@shba007)
