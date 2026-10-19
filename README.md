@@ -28,16 +28,16 @@
 ### ⚡ Featured Systems & Open-Source Architecture
 
 > **1. Rune Ecosystem (AI Runtimes & MCP Tooling in Rust)**
-> * **[Rune Infer](https://github.com/shba007)**: High-performance, single-binary AI model gateway unifying local GGUF engines and cloud APIs with pre-flight VRAM budgeting, LRU model unloading, and zero-crash isolation.
-> * **[Rune Kit & Tools](https://github.com/shba007)**: Rust runtime host and package manager for the Model Context Protocol (MCP), featuring secure, memory-isolated `wasm32-wasip1` Extism sandboxes and Stdio JSON-RPC multiplexing.
-> * **[UnAi](https://github.com/shba007)**: Unified TypeScript adapter standardizing text, streaming, structured JSON schemas, and tool execution across 7 providers and 56+ models.
+> * **[Rune Infer](https://github.com/shba007/rune-infer)**: High-performance, single-binary AI model gateway unifying local GGUF engines and cloud APIs with pre-flight VRAM budgeting, LRU model unloading, and zero-crash isolation.
+> * **[Rune Kit](https://github.com/shba007/rune-kit) & [Rune Tools](https://github.com/shba007/rune-tools)**: Rust runtime host and package manager for the Model Context Protocol (MCP), featuring secure, memory-isolated `wasm32-wasip1` Extism sandboxes and Stdio JSON-RPC multiplexing.
+> * **[UnAi](https://github.com/shba007/unai)**: Unified TypeScript adapter standardizing text, streaming, structured JSON schemas, and tool execution across 7 providers and 56+ models.
 
-> **2. Enterprise Backend & Media Infrastructure (Modest Human Brands)**
-> * **[MMedia](https://github.com/shba007)**: Event-driven, containerized media microservice orchestrating background job queues, hardware-accelerated DASH transcoding via FFmpeg, and LiveKit WebRTC-to-HLS live broadcasting.
-> * **[MStudio](https://github.com/shba007)**: High-performance desktop workstation (Rust, Tauri v2, Vue 3) featuring P2P asset synchronization via Iroh QUIC streams, multithreaded FFmpeg bulk watermarking, and an Axum PNA cryptographic bridge.
-> * **[MDoc & MConnect](https://github.com/shba007)**: Cryptographic PDF signing microservice (`Nitro v3`) and omnichannel engagement gateway orchestrating WebRTC/SIP telephony, WhatsApp, and anti-bot email telemetry.
+> **2. Enterprise Backend & Media Infrastructure ([Modest Human Brands](https://github.com/Modest-Human-Brands))**
+> * **[MMedia](https://github.com/Modest-Human-Brands/mmedia)**: Event-driven, containerized media microservice orchestrating background job queues, hardware-accelerated DASH transcoding via FFmpeg, and LiveKit WebRTC-to-HLS live broadcasting.
+> * **[MStudio](https://github.com/Modest-Human-Brands/mstudio)**: High-performance desktop workstation (Rust, Tauri v2, Vue 3) featuring P2P asset synchronization via Iroh QUIC streams, multithreaded FFmpeg bulk watermarking, and an Axum PNA cryptographic bridge.
+> * **[MDoc](https://github.com/Modest-Human-Brands/mdoc) & [MConnect](https://github.com/Modest-Human-Brands/mconnect)**: Cryptographic PDF signing microservice (`Nitro v3`) and omnichannel engagement gateway orchestrating WebRTC/SIP telephony, WhatsApp, and anti-bot email telemetry.
 
----
+--
 
 ## 🏆 GitHub Stats & Metrics
 
