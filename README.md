@@ -18,8 +18,8 @@
 
 ### 🛠️ Core Technology Stack
 
-- **Languages & Systems:** Rust, TypeScript, Python, C++ (Embedded/ESP32)
-- **AI & Agentic Tooling:** Model Context Protocol (MCP 2024-11-05), GGUF/safetensors, Unsloth, VRAM Budgeting, Wasmtime / Extism (WASM)
+- **Languages & Systems:** Rust, TypeScript, Python
+- **AI & Agentic Tooling:** Model Context Protocol (MCP 2026-07-28), GGUF/safetensors, Unsloth, VRAM Budgeting, Wasmtime / Extism (WASM)
 - **Web, API & Backend:** Nuxt 4, Vue 3, Bun, Nitro v3, Axum, Docker Swarm, Redis, CockroachDB
 - **Media & Streaming:** FFmpeg, WebCodecs, LiveKit SFU, HLS, Cloudflare R2 / AWS S3
 
